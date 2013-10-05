@@ -1,0 +1,3 @@
+ftp://www.pasda.psu.edu/pub/pasda/other_states/va/drg24k
+
+Digital Raster Graphics (DRG) 
